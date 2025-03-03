@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente trabalho com back-end, mas procuro<br>  mudar para full-stack ...<br>🌱 Estudando Python4 e finalizando Css3<br>📫 Contate-me no email: m.eantunes91@gmail.com<br>😄 Pronouns: Ela/Dela</p>
+<p align="left">🔭 Atualmente trabalho com back-end, mas procuro<br>  mudar para full-stack ...<br>🌱 Estudando Python4 e finalizando Css3<br>📫 Contate-me no: <a m.eantunes91@gmail.com>e-mail<a><br>😄 Pronouns: Ela/Dela</p>
 
 ###
 
@@ -17,7 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
