@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente trabalho com back-end, mas procuro<br>  mudar para full-stack ...<br>🌱 Estudando Python4 e finalizando Css3<br>📫 Contate-me no email: m.eantunes91@gmail.com <br>😄 Pronouns: Ela/Dela</p>
+<p align="left">🔭 Atualmente trabalho com back-end ...<br>🌱 Estudando Python4<br>📫 Contate-me no email: m.eantunes91@gmail.com <br>😄 Pronouns: Ela/Dela</p>
 
 ###
 
