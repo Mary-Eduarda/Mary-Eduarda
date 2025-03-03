@@ -26,13 +26,13 @@
 ###
 
 <div align="left">
-   <a href="m.eantunes91@gmail.com" target="_blank">
+   <a href="https://m.eantunes91@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mee_marys/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/maria-eduarda-a-r152025" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-eduarda-a-r152025" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
