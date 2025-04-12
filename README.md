@@ -33,6 +33,10 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-a-r152025" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  a
+  <a href="https://www.workana.com/freelancer/23b658957c62572b54d9aadc68099f76?utm_source=share-profile&utm_medium=email&utm_campaign=share-2025-04-12" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_j-d4nNbz3-Qr7VV1Xt7TJ3J1tXp6LghUg&s" width="52" height="40" alt="Workana logo"  />
+  </a>
 </div>
 
 ###
