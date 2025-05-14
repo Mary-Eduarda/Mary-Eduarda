@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente sou dev. jr back-end ...<br>🌱 Estudando C++<br>📫 Contate-me no email: m.eantunes91@gmail.com <br>😄 Pronouns: Ela/Dela</p>
+<p align="left">🔭 Atualmente sou dev. jr back-end ...<br>🌱 Estudando.. <br>📫 Contate-me no email: m.eantunes91@gmail.com <br>😄 Pronouns: Ela/Dela</p>
 
 ###
 
