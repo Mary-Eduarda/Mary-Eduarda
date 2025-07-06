@@ -39,6 +39,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mary-Eduarda/Mary-Eduarda/output/pacman-contribution-graph.svg">
 </picture>
 
+
 <h2>𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜</h2>
   <a href="https://www.instagram.com/mee_marys/" target="_blank"><img src="icons/instagram1.png"  width="50" height="50" style="margin-right: 20px"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-a-r152025" target="_blank"><img src="icons/linkedin1.png" width="50" height="50" style="margin-right: 20px"></a>
